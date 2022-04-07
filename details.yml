@@ -1,11 +1,11 @@
 ---
 # Personal details
-name: Friedrich Nietzsche
+name: EVANGELOS LAMPOS
 address:
 - Humboldtstraße 36
 - 99425 Weimar
 - Prussia
-phone: "+49 03643 545400"
+phone: "+30 694 5474102"
 email: friedrich@thevoid.de
 # Insert URLs without http://
 urls:
@@ -23,18 +23,15 @@ skills:
 - Anti-foundationalism, Philosophy of history
 
 experience:
-- years: 1879--1889
-  employer: Freiberufler
-  job: Freier Philosoph
-  city: Sils-Maria
+- years: 2018-2022
+  employer: ELIMINATORE LTD
+  job: INNOVATION MANAGER
+  city: THESSALONIKI
 - years: 1869–-1879
-  employer: Universität Basel
-  job: Professor für klassische Philologie
-  city: Basel
-- years: 1867--1868
-  employer: Preußische Artillerie
-  job: Kanonier
-  city: Naumburg
+  
+  
+  
+  
 
 education:
 - year: 1867
